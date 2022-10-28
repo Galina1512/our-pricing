@@ -54,6 +54,7 @@ h2{
     height: 30px;
     border: none;
     border-radius: 50%;
+    background: white;
 }
 .boll:hover{
     cursor: pointer;
